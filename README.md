@@ -28,12 +28,6 @@ This project focuses on analysing COVID-19 hospital patient data using Microsoft
 ### Dashboard
 ![Dashboard](Dashboardd.jpeg)
 
-### Charts
-![Chart 1](chart1.png)  
-![Chart 2](chart2.png)  
-![Chart 3](chart3.png)  
-![Chart 4](chart4.png)  
-
 ---
 
 ## Key Insights
