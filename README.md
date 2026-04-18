@@ -2,7 +2,7 @@
 # COVID-19 Hospital Data Analysis
 
 ## Project Overview
-This project focuses on analysing COVID-19 hospital patient data using Microsoft Excel. The aim was to identify trends, patterns, and relationships within the dataset to support data-driven insights.
+This project focuses on analysing COVID-19 hospital patient data using Microsoft Excel. The aim was to identify trends, patterns and relationships within the dataset to support data-driven insights.
 
 ---
 
@@ -17,7 +17,7 @@ This project focuses on analysing COVID-19 hospital patient data using Microsoft
 
 ## Key Features
 - Cleaned and structured raw patient data  
-- Analysed variables such as age, severity, oxygen levels, ICU admission, and comorbidities  
+- Analysed variables such as age, severity, oxygen levels, ICU admission and comorbidities  
 - Created Pivot Tables to summarise and explore the data  
 - Designed charts and a dashboard to visualise trends and patterns  
 
@@ -39,7 +39,7 @@ This project focuses on analysing COVID-19 hospital patient data using Microsoft
 ---
 
 ##  Outcome
-This project strengthened my ability to clean, analyse, and visualise data using Excel. It also improved my understanding of how data can be used to support decision-making in real-world scenarios.
+This project strengthened my ability to clean, analyse and visualise data using Excel. It also improved my understanding of how data can be used to support decision making in real-world scenarios.
 
 ---
 
